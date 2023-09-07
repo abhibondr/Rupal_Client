@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { RiFindReplaceLine } from "react-icons/ri";
-import me from "../../assets/images/anubhav-dubey.jpg";
+import me from "../../assets/images/myPic.jpg";
 
 const About = () => {
   return (
